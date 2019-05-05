@@ -1,0 +1,4 @@
+python-telegram-bot==11.1.0
+apiai==1.2.3
+requests==2.21.0
+gunicorn==19.9.0

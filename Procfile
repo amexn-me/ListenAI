@@ -1,0 +1,1 @@
+web: gunicorn listenai-bot.py:app --log-file=-
